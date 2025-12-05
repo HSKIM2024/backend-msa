@@ -9,6 +9,11 @@ target/
 out/
 
 ### Service
+.github/workflows
+common-security
+common-web
+notification-service
+user-service
 auth-service
 recommend-service
 stats-service/.mvn
